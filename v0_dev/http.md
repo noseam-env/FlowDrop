@@ -45,6 +45,6 @@ This endpoint is still unstable and may change in the future
 
 - Method: `POST`
 - Request: 
-  - Body: [TFA Archive](v0_dev/tfa.md) 
+  - Body: [TFA Archive](tfa.md) 
   - Chunked transferring
 - Response: empty
