@@ -45,6 +45,6 @@ This endpoint is still unstable and may change in the future
 
 - Method: `POST`
 - Request: 
-  - Content-Type: `application/x-tar`
-  - maybe chunked transferring ... ?
+  - Body: [TFA Archive](v0_dev/tfa.md) 
+  - Chunked transferring
 - Response: empty

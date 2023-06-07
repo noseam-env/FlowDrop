@@ -16,7 +16,7 @@ I will be glad if you help improve this project
 **TODO:** Authentication and connection state.
 
 - [Device Info](v0_dev/device_info.md)
-- [Tar](v0_dev/tar.md)
+- [TFA](v0_dev/tfa.md)
 - [HTTP](v0_dev/http.md)
 - [DNS-SD](v0_dev/dns_sd.md)
 
