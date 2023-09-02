@@ -3,6 +3,13 @@
 FlowDrop allows sharing files between devices directly over local network.
 
 
+## Applications
+
+- [FlowDrop Qt](https://github.com/noseam-env/flowdrop-qt) *for Desktop*
+- [FlowDrop Android](https://github.com/noseam-env/flowdrop-android) *for Android*
+- [flowdrop-cli](https://github.com/noseam-env/flowdrop-cli) *for CLI*
+
+
 ## TODOs
 
 I will be glad if you help improve this project
@@ -11,14 +18,10 @@ I will be glad if you help improve this project
 - Text sending
 
 
-# Specification v0 (In Development)
+## Specification
 
-**TODO:** Authentication and connection state.
-
-- [Device Info](v0_dev/device_info.md)
-- [TFA](v0_dev/tfa.md)
-- [HTTP](v0_dev/http.md)
-- [DNS-SD](v0_dev/dns_sd.md)
+- [New (In Development)](new/spec.md)
+- [v0 (Old)](v0_old/spec.md)
 
 
 ## Authors

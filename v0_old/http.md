@@ -44,6 +44,8 @@ Server must support `HTTP/2`
 This endpoint is still unstable and may change in the future
 
 - Method: `POST`
+- Headers:
+  - x-deviceinfo: [Device Info](device_info.md)
 - Request: 
   - Body: [TFA Archive](tfa.md) 
   - Chunked transferring
